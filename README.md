@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamdeodia
 - 👀 I’m interested in ... React, Typescript, Styled Component, Gatsby, Front-End Architecture.
-- 🌱 I’m currently learning ... AWS Cloud Solution Architect
+- 🌱 I’m currently learning ... AWS Cloud Solution Architect (I am certified)
 - 💞️ I’m looking to collaborate on ... React Component Library
 - 📫 How to reach me ... shubham.deodia@gmail.com
 
